@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "producto": "Television 4K 70' ",
+    "precio": 124000
+  },
+  {
+    "id": 2,
+    "producto": "Escritorio",
+    "precio": 23000
+  },
+  {
+    "id": 3,
+    "producto": "Camiseta River Plate",
+    "precio": 8000
+  },
+  {
+    "id": 4,
+    "producto": "Carlitera",
+    "precio": 7230
+  },
+  {
+    "id": 5,
+    "producto": "Matafuegos",
+    "precio": 11110
+  },
+  {
+    "id": 6,
+    "producto": "Rasengan",
+    "precio": 999999
+  },
+  {
+    "id": 7,
+    "producto": "Lampara",
+    "precio": 2000
+  },
+  {
+    "id": 8,
+    "producto": "Pochoclera",
+    "precio": 6320
+  },
+  {
+    "id": 9,
+    "producto": "Termo",
+    "precio": 1200
+  },
+  {
+    "id": 10,
+    "producto": "Set cubiertos",
+    "precio": 3000
+  },
+  {
+    "id": 11,
+    "producto": "Huawei p30 pro",
+    "precio": 120000
+  },
+  {
+    "id": 12,
+    "producto": "Sombrero",
+    "precio": 4870
+  },
+  {
+    "id": 13,
+    "producto": "Biblioteca",
+    "precio": 4300
+  },
+  {
+    "id": 14,
+    "producto": "Botines Adidas Venom",
+    "precio": 12400
+  },
+  {
+    "id": 15,
+    "producto": "Sofá cama",
+    "precio": 78000
+  },
+  {
+    "id": 16,
+    "producto": "Casaca Newels",
+    "precio": 1233
+  }
+]
