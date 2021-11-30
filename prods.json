@@ -6,23 +6,23 @@
   },
   {
     "id": 2,
-    "producto": "Escritorio",
-    "precio": 23000
+    "producto": "Camiseta LiverPool",
+    "precio": 5800
   },
   {
     "id": 3,
     "producto": "Camiseta River Plate",
-    "precio": 8000
+    "precio": 120000
   },
   {
     "id": 4,
-    "producto": "Carlitera",
-    "precio": 7230
+    "producto": "Juguete Pinocho",
+    "precio": 200
   },
   {
     "id": 5,
-    "producto": "Matafuegos",
-    "precio": 11110
+    "producto": "Peluche",
+    "precio": 600
   },
   {
     "id": 6,
@@ -51,13 +51,13 @@
   },
   {
     "id": 11,
-    "producto": "Huawei p30 pro",
-    "precio": 120000
+    "producto": "Mesa Ratona",
+    "precio": 7000
   },
   {
     "id": 12,
-    "producto": "Sombrero",
-    "precio": 4870
+    "producto": "Poker",
+    "precio": 4000
   },
   {
     "id": 13,
@@ -66,8 +66,8 @@
   },
   {
     "id": 14,
-    "producto": "Botines Adidas Venom",
-    "precio": 12400
+    "producto": "Auto TC",
+    "precio": 5999999
   },
   {
     "id": 15,
@@ -78,5 +78,10 @@
     "id": 16,
     "producto": "Casaca Newels",
     "precio": 1233
+  },
+  {
+    "id": 17,
+    "producto": "Pizza",
+    "precio": 455
   }
 ]

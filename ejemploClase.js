@@ -1,18 +1,17 @@
 let express = require('express')
 let app = express()
-const PORT = 3000
+const PORT = 8080
 
 
-app.get('/productos',(req,res,next) => {
-    res.send(handlerDocs.getProds())
+app.get('/papaya',(req,res,next) => {
+    
 })
 
-app.get('/', (req,res,next)=>{
-    console.log(req.query);
+
 
 
     
-})
+
 
 app.listen(PORT, () => {
     console.log(`visto desde http://localhost:${PORT}`);
